@@ -1,0 +1,14 @@
+.phone-details{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(233, 231, 231);
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.detail-head{
+    font-size: 20px;
+    font-weight: 700;
+}
+#spiner{
+    display: none;
+}
